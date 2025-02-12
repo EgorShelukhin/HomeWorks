@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+data-service:
+  url: http://localhost:8080
